@@ -18,3 +18,7 @@ This repo contains a refactor of the Horiseon website sourcecode. The following 
 The following image shows the website's current state
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon.png)
+
+<p align="center">
+  <img src="assets/images/github-icon.png" width="100" >
+</p>
