@@ -1,7 +1,7 @@
 # Horiseon_Refactor
 [Deployed Link Here](https://iqbalahmadi.github.io/Horiseon_Refactor/)
 
-![Github icon for decorative purposes](./assets/images/github-icon.png | width=50)
+<img src="github-icon.png" width="20" height="20">
 ## Description 
 This repo contains a refactor of the Horiseon website sourcecode. The following updates were made:
 
